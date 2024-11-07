@@ -1,0 +1,12 @@
+.env
+.___pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+data/
+db/
+*.log
+*.DS_Store
+*.swp
+*.swo
+*.ipynb
